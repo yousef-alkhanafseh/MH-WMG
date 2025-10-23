@@ -42,12 +42,15 @@ The pipeline combines time-series and wavelet scalogram images to achieve high a
 ```
 MH-WMG/
 │
-├── MH-WMG.py               # Main training and evaluation script
-├── data_downloader.py      # Downloads datasets from Google Drive
-├── requirements.txt        # Required Python packages
+├── MH-WMG.py               		# Main training and evaluation script
+├── data_downloader.py      		# Downloads datasets from Google Drive
+├── requirements.txt        		# Required Python packages
 ├── notebooks/
-│   └── MH-WMG.ipynb        # Notebook version of the main script
-└── README.md               # Project documentation
+│   └── MH-WMG.ipynb        		# Notebook version of the main script
+├── notebooks/
+│   └── KundurTwoAreaSystemModified.slx # Related Simulink/Matlab Kundur Two Area System
+│   └── runSystem.m        		# Short Circuit Faults Application on The System
+└── README.md               		# Project documentation
 ```
 
 ---
