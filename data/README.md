@@ -125,7 +125,35 @@ Within each `A*` folder you’ll find **588 PNG** files (one per simulation ca
 <distance>_<a>_<b>_<c>_<g>_plot.png
 ```
 
-# Citation
-If you use this dataset, please cite:
+## 📜 Citation
+If you use the **data** or the **pipeline**, please cite the paper below.
 
-> Alkhanafseh, Y., Akinci, T. C., Martínez‑Morales, A. A., Şeker, S., & Ekici, S. (2025). **MH‑WMG: A Multi‑Head Wavelet‑Based MobileNet with Gated Linear Attention for Power Grid Fault Diagnosis**. *IEEE Access*.
+**APA**
+Alkhanafseh, Y., Akinci, T. C., Martinez-Morales, A. A., Seker, S., & Ekici, S. (2025). MH-WMG: A Multi-Head Wavelet-Based MobileNet with Gated Linear Attention for Power Grid Fault Diagnosis. *Applied Sciences, 15*(20), 10878. https://doi.org/10.3390/app152010878
+
+**BibTeX**
+```bibtex
+@article{Alkhanafseh2025MHW_MG,
+  title   = {MH-WMG: A Multi-Head Wavelet-Based MobileNet with Gated Linear Attention for Power Grid Fault Diagnosis},
+  author  = {Alkhanafseh, Yousef and Akinci, Tahir Çetin and Martinez-Morales, Alfredo A. and Seker, Serhat and Ekici, Sami},
+  journal = {Applied Sciences},
+  year    = {2025},
+  volume  = {15},
+  number  = {20},
+  pages   = {10878},
+  doi     = {10.3390/app152010878}
+}
+```
+
+---
+
+## 📝 License
+This code is released for academic and research purposes only. Please check the license terms in this repository.
+
+---
+
+## ✉️ Contact
+For questions or collaborations, please contact:
+**Yousef Alkhanafseh** – [alkhanafseh15@gmail.com]
+
+---

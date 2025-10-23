@@ -1,0 +1,7 @@
+gdown==5.2.0
+numpy==1.25.1
+pandas==2.3.3
+scikit_learn==1.7.2
+tensorflow==2.20.0
+tensorflow_hub==0.16.1
+tf_keras==2.20.1
