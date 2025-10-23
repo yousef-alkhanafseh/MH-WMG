@@ -128,7 +128,7 @@ Within each `A*` folder you’ll find **588 PNG** files (one per simulation ca
 ## 📜 Citation
 If you use the **data** or the **pipeline**, please cite the paper below.
 
-**APA**
+**APA** <br>
 Alkhanafseh, Y., Akinci, T. C., Martinez-Morales, A. A., Seker, S., & Ekici, S. (2025). MH-WMG: A Multi-Head Wavelet-Based MobileNet with Gated Linear Attention for Power Grid Fault Diagnosis. *Applied Sciences, 15*(20), 10878. https://doi.org/10.3390/app152010878
 
 **BibTeX**
